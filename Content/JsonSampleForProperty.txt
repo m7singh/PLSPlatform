@@ -1,0 +1,60 @@
+{
+        
+        "active" : 1,
+        "propertyIdentification" : {
+                "customPropertyID" : "000001",
+                "mlsID" : "MSG00001",
+                "otherID" : ""
+        },
+        "propertyListingType" : {
+                "forSale" : true,
+                "forRent" : false,
+                "saleAgent" : false,
+                "saleOwner" : true,
+                "saleNewConstructon" : false,
+                "saleForeclosure" : true
+        },
+        "propertyAddress" : {
+                "street" : "1234 Some St",
+                "street2" : "400",
+                "city" : "Gotham City",
+                "county" : "Gotham",
+                "state" : "CA",
+                "zip" : "88888"
+        },
+        "propertyDetails" : {
+                "beds" : "2",
+                "baths" : "1",
+                "squareFeet" : 3000,
+                "lotSize" : 7000,
+                "yearBuilt" : 1990,
+                "hoa" : 300,
+                "propertyType" : "SFR",
+                "propertyDescription" : "Perfect Location! 3 bd, 2.5 bth house in the most sought after Las Amgos Park homes 1,765 sq ft of living space."
+        },
+        "propertyGeoLoc" : null,
+        "propertyPrice" : {
+                "price" : 200000,
+                "lastPrice" : 300000
+        },
+        "propertyAccount" : {
+                "daysListed" : 2,
+                "dateListed" : "\/Date(-62135568000000)\/",
+                "dateListedString" : "0001-01-01T08:00:00.0000000Z",
+                "dateExpiry" : "\/Date(-62135568000000)\/",
+                "dateExpiryString" : "0001-01-01T08:00:00.0000000Z"
+        },
+        "listingAgent" : {
+                "listingAgentID" : "12345",
+                "fullName" : null,
+                "firstName" : null,
+                "lastName" : null,
+                "email" : null,
+                "phone" : null,
+                "cellPhone" : null,
+                "fax" : null
+        },
+        "keywords" : "2 Full Bath, Large backyard",
+        "dateLastUpdated" : "\/Date(-62135568000000)\/",
+        "dateLastUpdatedString" : "0001-01-01T00:00:00.0000000"
+}
