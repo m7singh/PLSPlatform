@@ -50,6 +50,7 @@ namespace Property.Rest.Contracts
         public ListingAgent listingAgent { get; set; }
 
         //[DataMember]
+
         //public DigitalContent digitalContent { get; set; }
 
         [DataMember]
