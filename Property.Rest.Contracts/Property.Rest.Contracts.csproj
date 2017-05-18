@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MongoDB.Bson">
-      <HintPath>..\..\driver\net45\MongoDB.Bson.dll</HintPath>
+      <HintPath>..\driver\net45\MongoDB.Bson.dll</HintPath>
     </Reference>
     <Reference Include="Norm">
       <HintPath>..\lib\Norm.dll</HintPath>
